@@ -17,6 +17,7 @@
 - 지역화폐 사용금액과 인구와의 상관관계 파악 (0.506)
 - 월별 지역화폐 사용금액 추세 (우상향)
 - 지역화폐 종류별 사용빈도 파악 후 지도 시각화
+  
    <details>
    <summary><strong>시각화 결과 보기/접기</strong></summary>
    <img width="959" alt="image" src="https://github.com/user-attachments/assets/ff42c2de-3551-4b8d-a636-415f4908e431">
@@ -35,6 +36,7 @@
 - 경기도 내 42개의 시군구를 4개의 군집으로 분류
 - 군집 별 특징 파악 (사용금액, 인구)
 - 군집 별 해당 지역 확인
+  
    <details>
   <summary><strong>군집분석 결과 보기/접기</strong></summary>
    <img width="819" alt="image" src="https://github.com/user-attachments/assets/4039ee1f-fb29-457d-b2ab-94d5358a7b74">
