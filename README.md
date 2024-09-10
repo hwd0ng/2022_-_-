@@ -40,6 +40,7 @@
    <details>
   <summary><strong>군집분석 결과 보기/접기</strong></summary>
    <img width="819" alt="image" src="https://github.com/user-attachments/assets/4039ee1f-fb29-457d-b2ab-94d5358a7b74">
+   <img width="788" alt="image" src="https://github.com/user-attachments/assets/b05acb4c-045d-4576-aced-e89183d26e4d">
    <img width="913" alt="image" src="https://github.com/user-attachments/assets/ed3d70dc-a68b-4a1c-b9f4-db09d573b639">
    <img width="876" alt="image" src="https://github.com/user-attachments/assets/ee0cad68-e068-47d4-b4b1-3af161d8081e">
    </details>
