@@ -17,17 +17,17 @@
 - 지역화폐 사용금액과 인구와의 상관관계 파악 (0.506)
 - 월별 지역화폐 사용금액 추세 (우상향)
 - 지역화폐 종류별 사용빈도 파악 후 지도 시각화
-<details>
+   <details>
    <summary><strong>시각화 결과 보기/접기</strong></summary>
-  <img width="959" alt="image" src="https://github.com/user-attachments/assets/ff42c2de-3551-4b8d-a636-415f4908e431">
-  <img width="946" alt="image" src="https://github.com/user-attachments/assets/d383e8b6-a51c-4df3-b317-9bad0b19d589">
-  <img width="959" alt="image" src="https://github.com/user-attachments/assets/0956275f-7973-4752-989b-5ceee3f1f2a2">
-  <img width="935" alt="image" src="https://github.com/user-attachments/assets/d05cb819-30e6-4702-a50e-85d98f6bcbb0">
-  <img width="952" alt="image" src="https://github.com/user-attachments/assets/cd4c0df7-9f97-4918-ac18-7049c50ed196">
-  <img width="902" alt="image" src="https://github.com/user-attachments/assets/f05eee2d-0d6a-495a-8677-5bd3c90bf9dd">
-  <img width="956" alt="image" src="https://github.com/user-attachments/assets/a10838db-574a-4d6e-9a50-880b956eea2f">
-  <img width="855" alt="image" src="https://github.com/user-attachments/assets/bc9bb231-4eb3-4385-9136-b1a5b9d3d86d">
-</details>
+   <img width="959" alt="image" src="https://github.com/user-attachments/assets/ff42c2de-3551-4b8d-a636-415f4908e431">
+   <img width="946" alt="image" src="https://github.com/user-attachments/assets/d383e8b6-a51c-4df3-b317-9bad0b19d589">
+   <img width="959" alt="image" src="https://github.com/user-attachments/assets/0956275f-7973-4752-989b-5ceee3f1f2a2">
+   <img width="935" alt="image" src="https://github.com/user-attachments/assets/d05cb819-30e6-4702-a50e-85d98f6bcbb0">
+   <img width="952" alt="image" src="https://github.com/user-attachments/assets/cd4c0df7-9f97-4918-ac18-7049c50ed196">
+   <img width="902" alt="image" src="https://github.com/user-attachments/assets/f05eee2d-0d6a-495a-8677-5bd3c90bf9dd">
+   <img width="956" alt="image" src="https://github.com/user-attachments/assets/a10838db-574a-4d6e-9a50-880b956eea2f">
+   <img width="855" alt="image" src="https://github.com/user-attachments/assets/bc9bb231-4eb3-4385-9136-b1a5b9d3d86d">
+   </details>
 <hr width="800">
   
 ### 3. K-means 군집분석
@@ -35,12 +35,12 @@
 - 경기도 내 42개의 시군구를 4개의 군집으로 분류
 - 군집 별 특징 파악 (사용금액, 인구)
 - 군집 별 해당 지역 확인
-<details>
+   <details>
   <summary><strong>군집분석 결과 보기/접기</strong></summary>
-<img width="819" alt="image" src="https://github.com/user-attachments/assets/4039ee1f-fb29-457d-b2ab-94d5358a7b74">
-<img width="913" alt="image" src="https://github.com/user-attachments/assets/ed3d70dc-a68b-4a1c-b9f4-db09d573b639">
-<img width="876" alt="image" src="https://github.com/user-attachments/assets/ee0cad68-e068-47d4-b4b1-3af161d8081e">
-</details>
+   <img width="819" alt="image" src="https://github.com/user-attachments/assets/4039ee1f-fb29-457d-b2ab-94d5358a7b74">
+   <img width="913" alt="image" src="https://github.com/user-attachments/assets/ed3d70dc-a68b-4a1c-b9f4-db09d573b639">
+   <img width="876" alt="image" src="https://github.com/user-attachments/assets/ee0cad68-e068-47d4-b4b1-3af161d8081e">
+   </details>
 <hr width="800">
 
 ### 4. 결론
